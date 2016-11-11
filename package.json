@@ -1,0 +1,21 @@
+{
+    "name": "simplecached-rafa",
+    "version": "0.0.1",
+    "description": "Simplified memcached server. #Exercise Rafa",
+    "contributors": ["Rafael Ramón Fraga"],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rramonfraga/simplecached-rafa"
+    },
+    "dependencies": {
+        "testing": "0.1.x"
+    },
+    "keywords" : ["simplecached", "didactic", "memcached", "caching"],
+    "bin": {
+        "simplecached": "bin/server.js"
+    },
+    "scripts": {
+        "test": "node test.js"
+    },
+}
