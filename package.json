@@ -6,10 +6,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rramonfraga/simplecached-rafa"
+        "url": "https://github.com/rramonfraga/simplecached"
     },
     "dependencies": {
-        "testing": "0.1.x"
+        "testing": "0.1.0"
     },
     "keywords" : ["simplecached", "didactic", "memcached", "caching"],
     "bin": {
@@ -17,5 +17,5 @@
     },
     "scripts": {
         "test": "node test.js"
-    },
+    }
 }
